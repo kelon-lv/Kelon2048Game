@@ -88,16 +88,11 @@
         </RelativeLayout>
     </LinearLayout>
 
-    <kelon.kelon2048game.GameItem
-        android:id="@+id/gameItem"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content" />
-
-    <!--<kelon.kelon2048game.GameView-->
-    <!--android:id="@+id/gameView"-->
-    <!--android:layout_width="match_parent"-->
-    <!--android:layout_height="0dp"-->
-    <!--android:layout_weight="1" >-->
-    <!--</kelon.kelon2048game.GameView>-->
+    <kelon.kelon2048game.GameView
+        android:id="@+id/gameView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="30dp"></kelon.kelon2048game.GameView>
 
 </LinearLayout>
