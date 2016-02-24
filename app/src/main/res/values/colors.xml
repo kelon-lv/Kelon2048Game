@@ -3,4 +3,17 @@
     <color name="orange">#F49462</color>
     <color name="gray">#BFBFBF</color>
     <color name="light_orange">#F1B179</color>
+    
+    <color name="board_bg">#BBADA0</color>
+    <color name="key0_bg">#CCC0B3</color>
+    <color name="key2_bg">#EEE4DA</color>
+    <color name="key4_bg">#EDE0c8</color>
+    <color name="key8_bg">#F2B179</color>
+    <color name="key16_bg">#F59563</color>
+    <color name="key32_bg">#F67C5F</color>
+    <color name="key64_bg">#F65E3B</color>
+    <color name="key128_bg">#EDCF72</color>
+    <color name="key256_bg">#EDCC61</color>
+    <color name="key512_bg">#EDC850</color>
+    <color name="key1024_bg">#EDC53F</color>
 </resources>
