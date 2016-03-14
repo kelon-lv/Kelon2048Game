@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceScreen
+        android:key="reset_high_score"
+        android:title="@string/reset_high_score_title"></PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="user_feedback"
+        android:title="@string/user_feedback_title"></PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="more_features"
+        android:title="@string/more_features_title"></PreferenceScreen>
+
+</PreferenceScreen>

@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="orange">#F49462</color>
-    <color name="gray">#BFBFBF</color>
-    <color name="light_orange">#F1B179</color>
+
+    <!--游戏界面的背景色-->
+    <color name="game_bg">#FAF8EF</color>
+
+    <!--分数背景颜色-->
+    <color name="score_bg_color">#BBADA0</color>
+
+    <!--新游戏背景颜色-->
+    <color name="button_default_color">#8F7A66</color>
+    <color name="button_pressed_color">#BB9862</color>
+
+    <color name="score_add_color">#786F66</color>
     
     <color name="board_bg">#BBADA0</color>
     <color name="key0_bg">#CCC0B3</color>

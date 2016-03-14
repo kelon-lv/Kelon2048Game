@@ -1,6 +1,26 @@
 <resources>
-    <string name="app_name">Kelon 2048</string>
+    <string name="app_name">经典2048</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于我</string>
+
+    <string name="score_title">分 数</string>
+    <string name="record_title">最高分</string>
+
+    <string name="encouraging_words_string">快来试试你的水平，一起争夺2048!</string>
+    <string name="new_game_string">新游戏</string>
+    <string name="quit_message">再按一次退出游戏</string>
+
+    <string name="about_me_string">吕明飞\n\nQQ: 522368523\n\nKelon\n\nCSDN:http://blog.csdn.net/lmf0421\n\ngithub:https://github.com/kelon-lv\n\n梦想：成为一名独立开发者！！！赚钱！赚钱！赚钱！重要的事情说三遍！</string>
+
+    <string name="game_over">游戏结束</string>
+    <string name="try_again">再来一局</string>
+
+    <string name="reset_high_score_title">重置最高分</string>
+    <string name="reset">重置</string>
+    <string name="ok">确定</string>
+    <string name="cancle">取消</string>
+
+    <string name="user_feedback_title">用户反馈</string>
+    <string name="more_features_title">期待新功能...</string>
 </resources>
